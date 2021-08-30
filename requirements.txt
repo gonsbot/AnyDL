@@ -1,0 +1,7 @@
+motor
+Pillow
+hachoir
+TgCrypto
+aiofiles
+pyrogram
+dnspython
